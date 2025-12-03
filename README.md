@@ -3,3 +3,8 @@
 
 sudo cloudflared service install eyJhIjoiNDVlMzNlNDRkOGZhZjMyNmJiNzE3MTRjOGI0OGE2OWYiLCJ0IjoiNWNhNmYwOTQtNWQzMC00MmQ3LThlYWQtYmJmYTdmYTYxZTYxIiwicyI6Ik56TTROR1ZoWTJFdE5XVTJaUzAwT0RsbExXRmtZamd0TjJJNFpXWXdZMkZoWVRBdyJ9
 ```````````
+```````````
+
+cloudflared tunnel run --token eyJhIjoiNDVlMzNlNDRkOGZhZjMyNmJiNzE3MTRjOGI0OGE2OWYiLCJ0IjoiNWNhNmYwOTQtNWQzMC00MmQ3LThlYWQtYmJmYTdmYTYxZTYxIiwicyI6Ik56TTROR1ZoWTJFdE5XVTJaUzAwT0RsbExXRmtZamd0TjJJNFpXWXdZMkZoWVRBdyJ9
+
+````````````
