@@ -1,3 +1,14 @@
+`````
+curl -fsSL https://pkg.cloudflare.com/cloudflare-main.gpg | sudo gpg --dearmor -o /usr/share/keyrings/cloudflare-main.gpg
+echo "deb [signed-by=/usr/share/keyrings/cloudflare-main.gpg] https://pkg.cloudflare.com/cloudflared $(. /etc/os-release && echo $VERSION_CODENAME) main" | sudo tee /etc/apt/sources.list.d/cloudflared.list
+`````
+
+
+
+
+
+
+
 `````````
 # Add cloudflare gpg key
 sudo mkdir -p --mode=0755 /usr/share/keyrings
